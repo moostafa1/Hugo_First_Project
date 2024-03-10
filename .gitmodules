@@ -1,0 +1,6 @@
+[submodule "Coder/themes/ananke"]
+	path = Coder/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "Coder/themes/coder"]
+	path = Coder/themes/coder
+	url = git@github.com:luizdepra/hugo-coder.git
